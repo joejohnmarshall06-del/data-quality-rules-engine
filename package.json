@@ -1,0 +1,19 @@
+{
+  "name": "data-quality-rules-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Rule-based data quality engine with schema checks, uniqueness, ranges, required fields, and report generation.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "infrastructure",
+    "developer-tools",
+    "system-design",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
